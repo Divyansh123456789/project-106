@@ -1,0 +1,16 @@
+body{
+    font-family: cursive;
+
+}
+.header_div{
+    background-color: grey;
+    color: white;
+}
+.main_div{
+    background-color: wheat;
+}
+#dash{
+    width : 110px;
+    height: 30px;
+    border-radius: 100;
+} 
